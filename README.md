@@ -121,5 +121,3 @@ Built by Deep Narayan Banerjee with Go and curiosity.
 
 - DuckDuckGo for search results
 - The Go community for excellent tooling
-```
-
